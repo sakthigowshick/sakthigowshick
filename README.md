@@ -102,6 +102,7 @@ Graphs
 Searching & Sorting
 ## 🟠 LeetCode
 <p align="center"> <a href="https://leetcode.com/u/Sakthi_Gowshick_/"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/> </a> </p> <p align="center"> <img src="https://leetcard.jacoblin.cool/Sakthi_Gowshick_?theme=dark&font=baloo&ext=heatmap" /> </p> <p align="center"> <b>My LeetCode Profile:</b> <a href="https://leetcode.com/u/Sakthi_Gowshick_/"> Sakthi_Gowshick_ </a> </p>
+
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sakthigowshick&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
