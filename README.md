@@ -126,6 +126,7 @@ Searching & Sorting
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakthigowshick&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
+
 🎯 2026 Goals
 🚀 Become an AI Engineer
 🧠 Master Machine Learning & Deep Learning
