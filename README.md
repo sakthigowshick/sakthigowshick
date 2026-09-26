@@ -1,4 +1,4 @@
-# Hi 👋, I'm Sakthigowshick
+# Hi 👋, I'm Sakthi Gowshick
 
 ### 🤖 Aspiring AI Engineer | Machine Learning | Deep Learning | NLP | Java | Python
 
