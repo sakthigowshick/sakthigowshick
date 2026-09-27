@@ -161,18 +161,17 @@ I am a Computer Science Engineering student focused on **Artificial Intelligence
       <h3>🔥 Contribution Streak</h3>
       <img src="https://streak-stats.demolab.com?user=sakthigowshick&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
       <br/><br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakthigowshick&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sakthigowshick&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages" />
     </td>
   </tr>
 </table>
 
 <div align="center">
   <h3>📊 GitHub Developer Metrics</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=sakthigowshick&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" alt="GitHub Overview" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sakthigowshick&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" alt="GitHub Overview" />
   &nbsp;
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakthigowshick&theme=tokyo-night&hide_border=true&area=true" width="48%" alt="Activity Wave" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sakthigowshick&theme=tokyonight" width="48%" alt="Activity Summary" />
 </div>
-
 ## 🎯 Target Milestones (2026–2028 Roadmap)
 
 ```gantt
