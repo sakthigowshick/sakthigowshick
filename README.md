@@ -32,7 +32,7 @@
 
 I am a Computer Science Engineering student focused on **Artificial Intelligence, Full-Stack Web Development (FastAPI + React), and Machine Learning Systems**. I enjoy engineering practical tools that bridge backend infrastructure with intelligent models.
 
-- 🎓 **Undergraduate Education:** B.E. Computer Science and Engineering, Bannari Amman Institute of Technology (Expected Graduation: 2028 | **Current CGPA:** 3.35/10 up to 4th Semester)
+- 🎓 **Undergraduate Education:** B.E. Computer Science and Engineering, Bannari Amman Institute of Technology (Expected Graduation: 2028 | **Current CGPA:** 8.4/10 up to 4th Semester)
 - 🏫 **Schooling:** 
   - **Class XII (State Board):** St. Paul's Higher Secondary School, Salem — **92.17%** (2024)
   - **Class X (State Board):** Saraswathi Matric Higher Secondary School, Salem — **92.60%** (2022)
