@@ -1,74 +1,88 @@
-# Hi 👋, I'm Sakthi Gowshick
+<div align="center">
 
-### 🤖 Aspiring AI Engineer | Machine Learning | Deep Learning | NLP | Java | Python
+  <!-- Dynamic Typing Banner (Video Glimpse Effect) -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vcenter=true&width=600&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Sakthi+Gowshick;Aspiring+AI+Engineer;ML+%7C+DL+%7C+NLP+%7C+GenAI;Java+%2B+Python+Developer" alt="Typing Animation" />
+  </a>
 
-I am a Computer Science student passionate about **Artificial Intelligence, Machine Learning, Deep Learning, and Software Development**.
+  <p align="center">
+    <b>Computer Science Student | Building Practical AI & Machine Learning Systems</b>
+  </p>
 
-I enjoy learning new technologies, solving programming problems, and building practical AI projects.
+  <!-- Connect Badges -->
+  <a href="https://github.com/sakthigowshick">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://leetcode.com/u/Sakthi_Gowshick_/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-- 🤖 Aspiring **AI Engineer**
-- 🧠 Learning **Machine Learning & Deep Learning**
-- 💬 Exploring **NLP & Generative AI**
-- 💻 Practicing **Java, Python & C**
-- 🧩 Improving **Data Structures & Algorithms**
-- 🗄️ Learning **SQL & DBMS**
-- 🚀 Building AI/ML projects
-- 🎯 Preparing for software & AI engineering placements
+I am a Computer Science student dedicated to mastering **Artificial Intelligence, Data Structures, and Software Engineering**. My focus lies in turning theoretical concepts into deployed, real-world solutions.
+
+- 🤖 **Target Role:** Aspiring **AI / Machine Learning Engineer**
+- 🧠 **Core Interests:** Machine Learning, Deep Learning, NLP & Generative AI
+- 💻 **Tech Stack:** Java, Python, C, and SQL
+- 🧩 **DSA Focus:** Arrays, Dynamic Programming, Trees, Graphs, and Searching/Sorting
+- 🎯 **Current Milestone:** Preparing for high-impact Software & AI Engineering placement roles
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack & Skillset
 
-### 💻 Programming
+<table align="center" width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <h3 align="center">Languages & Databases</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" /><br/>
+        <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">AI & Data Science</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge" />
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">Tools & Environment</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+---
 
-### 🤖 AI / Machine Learning
+## ⚡ Featured Projects
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-4CAF50?style=for-the-badge)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge)
-
-### 🔧 Tools & Technologies
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+| Project | Description | Primary Domain |
+| :--- | :--- | :--- |
+| **🌱 Plant Disease Detection** | Computer Vision system detecting crop diseases from leaf images. | Deep Learning / CV |
+| **😴 Sleep Alarm Detector** | Real-time drowsiness monitoring system with automatic alarm triggering. | Computer Vision |
+| **💬 Sentiment Analysis** | Text classification engine analyzing sentiment polarity in user input. | NLP / Deep Learning |
+| **🏠 House Price Prediction** | Predictive model using regression techniques on housing market data. | Machine Learning |
+| **📈 Stock Alert System** | Automated stock analysis tool providing real-time trend alerts. | Financial AI |
+| **🤖 HireBOT** | Intelligent conversational agent designed to streamline recruitment. | Generative AI / NLP |
 
 ---
 
-## 🚀 Projects
-
-### 🌱 Plant Disease Detection
-Machine learning project for detecting plant diseases from leaf images.
-
-### 😴 Sleep Alarm Detector
-Computer vision project for detecting drowsiness and triggering an alarm.
-
-### 💬 Sentiment Analysis
-NLP project for classifying text sentiment using deep learning techniques.
-
-### 🏠 House Price Prediction
-Machine learning project for predicting house prices.
-
-### 📈 Stock Alert System
-AI-based project focused on stock analysis and alerts.
-
-### 🤖 HireBOT
-AI-powered recruitment assistant project.
-
----
+ 
 
 ## 🧠 Currently Learning
 
