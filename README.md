@@ -2,7 +2,9 @@
 
   <!-- Dynamic Typing Banner (Video Glimpse Effect) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?    font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vcenter=true&width=650&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Sakthi+Gowshick+S;B.E.+Computer  +Science+Student;AI%2FML+%7C+GenAI+%7C+FastAPI+%7C+React;Python+%2B+Java+Developer" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?    
+      font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vcenter=true&width=650&height=70&lines=Hi+%F0%9F%91%8B%2C
+      +I'm+Sakthi+Gowshick+S;B.E.+Computer  +Science+Student;AI%2FML+%7C+GenAI+%7C+FastAPI+%7C+React;Python+%2B+Java+Developer" alt="Typing Animation" />
   </a>
 
   <p align="center">
