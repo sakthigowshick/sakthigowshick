@@ -32,10 +32,6 @@
 
 I am a Computer Science Engineering student focused on **Artificial Intelligence, Full-Stack Web Development (FastAPI + React), and Machine Learning Systems**. I enjoy engineering practical tools that bridge backend infrastructure with intelligent models.
 
-- 🎓 **Undergraduate Education:** B.E. Computer Science and Engineering, Bannari Amman Institute of Technology (Expected Graduation: 2028 | **Current CGPA:** 8.4/10 up to 4th Semester)
-- 🏫 **Schooling:** 
-  - **Class XII (State Board):** St. Paul's Higher Secondary School, Salem — **92.17%** (2024)
-  - **Class X (State Board):** Saraswathi Matric Higher Secondary School, Salem — **92.60%** (2022)
 - 🤖 **Core Focus:** Machine Learning, Deep Learning (CNNs), and GenAI Basics (RAG, LLM, LangChain)
 - 💻 **Tech Stack:** C++, Python, Java, C, FastAPI, React, SQL, MongoDB
 - 🧩 **DSA Focus:** Arrays, Strings, Dynamic Programming, Trees & Graphs (Active on LeetCode & HackerRank)
@@ -47,7 +43,7 @@ I am a Computer Science Engineering student focused on **Artificial Intelligence
 
 | Level | Institution | Board / University | Performance | Year |
 | :--- | :--- | :--- | :--- | :--- |
-| **B.E. CSE** | Bannari Amman Institute of Technology, Sathyamangalam | Anna University (Affiliated) | **CGPA: 3.35 / 10** | 2024 – 2028 |
+| **B.E. CSE** | Bannari Amman Institute of Technology, Sathyamangalam | Anna University (Affiliated) | **CGPA: 8.4 / 10** | 2024 – 2028 |
 | **Class XII** | St. Paul's Higher Secondary School, Salem | Tamil Nadu State Board | **92.17%** | 2024 |
 | **Class X** | Saraswathi Matric Higher Secondary School, Salem | Tamil Nadu State Board | **92.60%** | 2022 |
 
