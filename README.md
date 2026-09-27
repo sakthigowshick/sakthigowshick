@@ -73,11 +73,11 @@ I am a Computer Science student dedicated to mastering **Artificial Intelligence
 
 | Project | Description | Primary Domain |
 | :--- | :--- | :--- |
+| **📈 Stock Alert System** | Automated stock analysis tool providing real-time trend alerts. | Financial AI |
 | **🌱 Plant Disease Detection** | Computer Vision system detecting crop diseases from leaf images. | Deep Learning / CV |
 | **😴 Sleep Alarm Detector** | Real-time drowsiness monitoring system with automatic alarm triggering. | Computer Vision |
 | **💬 Sentiment Analysis** | Text classification engine analyzing sentiment polarity in user input. | NLP / Deep Learning |
 | **🏠 House Price Prediction** | Predictive model using regression techniques on housing market data. | Machine Learning |
-| **📈 Stock Alert System** | Automated stock analysis tool providing real-time trend alerts. | Financial AI |
 | **🤖 HireBOT** | Intelligent conversational agent designed to streamline recruitment. | Generative AI / NLP |
 
 ---
@@ -86,60 +86,9 @@ I am a Computer Science student dedicated to mastering **Artificial Intelligence
 
 ## 🧠 Currently Learning
 
-Java
- ↓
-Data Structures & Algorithms
- ↓
-Machine Learning
- ↓
-Deep Learning
- ↓
-NLP
- ↓
-Generative AI
- ↓
-AI Engineering
-🧩 Problem Solving
-
 I am currently practicing:
 
-Arrays
-Strings
-Hashing
-Two Pointers
-Sliding Window
-Stack & Queue
-Recursion
-Dynamic Programming
-Trees
-Graphs
-Searching & Sorting
-## 🟠 LeetCode
-<p align="center"> <a href="https://leetcode.com/u/Sakthi_Gowshick_/"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/> </a> </p> <p align="center"> <img src="https://leetcard.jacoblin.cool/Sakthi_Gowshick_?theme=dark&font=baloo&ext=heatmap" /> </p> <p align="center"> <b>My LeetCode Profile:</b> <a href="https://leetcode.com/u/Sakthi_Gowshick_/"> Sakthi_Gowshick_ </a> </p>
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sakthigowshick&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sakthigowshick&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-
-## 🔥 GitHub Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sakthigowshick&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-<!-- Animated Terminal Video Header -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=800&color=00F5FF&center=true&vcenter=true&width=500&height=40&lines=%3F+DSA_Core_Mastery_In_Progress...;%3F+Solving+Medium+%2B+Hard+Patterns;%3F+Optimizing+Time+%26+Space+Complexity" alt="Terminal Video Stream" />
-  </a>
-</p>
+Data Structure and Algorithms & Exploring the world of NLP
 
 ### 🧩 Core Algorithmic Mastery
 
