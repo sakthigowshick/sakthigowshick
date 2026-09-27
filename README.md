@@ -134,19 +134,70 @@ Searching & Sorting
 
 ---
 
-## 📈 Contribution Graph
+<!-- Animated Terminal Video Header -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakthigowshick&theme=tokyo-night&hide_border=true&area=true" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=800&color=00F5FF&center=true&vcenter=true&width=500&height=40&lines=%3F+DSA_Core_Mastery_In_Progress...;%3F+Solving+Medium+%2B+Hard+Patterns;%3F+Optimizing+Time+%26+Space+Complexity" alt="Terminal Video Stream" />
+  </a>
 </p>
 
+### 🧩 Core Algorithmic Mastery
 
-🎯 2026 Goals
-🚀 Become an AI Engineer
-🧠 Master Machine Learning & Deep Learning
-💻 Strengthen Java & DSA
-📚 Improve SQL & DBMS
-🤖 Build real-world AI projects
-🧩 Solve more coding problems
-🎯 Prepare for placements
-📫 Connect With Me
-<p> <a href="https://github.com/sakthigowshick"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://leetcode.com/u/Sakthi_Gowshick_/"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/> </a> </p>
+<div align="center">
+
+  ![Arrays](https://img.shields.io/badge/Arrays-000000?style=for-the-badge&logo=codeforces&logoColor=00F5FF)
+  ![Strings](https://img.shields.io/badge/Strings-000000?style=for-the-badge&logo=codeforces&logoColor=00F5FF)
+  ![Hashing](https://img.shields.io/badge/Hashing-000000?style=for-the-badge&logo=codeforces&logoColor=00F5FF)
+  ![Two Pointers](https://img.shields.io/badge/Two_Pointers-000000?style=for-the-badge&logo=codeforces&logoColor=00F5FF)
+  ![Sliding Window](https://img.shields.io/badge/Sliding_Window-000000?style=for-the-badge&logo=codeforces&logoColor=00F5FF)
+  
+  ![Stack & Queue](https://img.shields.io/badge/Stack_%26_Queue-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116)
+  ![Recursion](https://img.shields.io/badge/Recursion-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116)
+  ![Dynamic Programming](https://img.shields.io/badge/Dynamic_Programming-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116)
+  ![Trees](https://img.shields.io/badge/Trees-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116)
+  ![Graphs](https://img.shields.io/badge/Graphs-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116)
+
+</div>
+
+---
+
+## ⚡ Live Telemetry & Stats
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <h3>🟠 LeetCode Live Activity</h3>
+      <a href="https://leetcode.com/u/Sakthi_Gowshick_/">
+        <img src="https://leetcard.jacoblin.cool/Sakthi_Gowshick_?theme=dark&font=baloo&ext=heatmap" width="100%" alt="LeetCode Card" />
+      </a>
+      <p align="center">
+        <a href="https://leetcode.com/u/Sakthi_Gowshick_/">
+          <img src="https://img.shields.io/badge/View_Profile-Sakthi__Gowshick__-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+        </a>
+      </p>
+    </td>
+    <td align="center" width="50%" valign="top">
+      <h3>🔥 Contribution Streak</h3>
+      <img src="https://streak-stats.demolab.com?user=sakthigowshick&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
+      <br/><br/>
+      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sakthigowshick&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <h3>📊 GitHub Developer Metrics</h3>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sakthigowshick&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" alt="GitHub Overview" />
+  &nbsp;
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakthigowshick&theme=tokyo-night&hide_border=true&area=true" width="48%" alt="Activity Wave" />
+</div>
+
+---
+
+## 🎯 Target Milestones (2026 Roadmap)
+
+```gantt
+[■■■■■■■■■■] Secure AI / Software Engineering Role
+[■■■■■■■□□□] Fine-Tune Custom LLMs & Multi-Modal GenAI
+[■■■■■■■■□□] Solve 300+ Targeted LeetCode Problems
+[■■■■■■□□□□] Deploy Production-Ready ML Open-Source Pipelines
