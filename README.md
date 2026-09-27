@@ -30,16 +30,12 @@
 
 ## 🚀 About Me
 
-I am a Computer Science Engineering student focused on **Artificial Intelligence, Full-Stack Web Development (FastAPI + React), and Machine Learning Systems**[cite: 1]. I enjoy engineering practical tools that bridge backend infrastructure with intelligent models[cite: 1].
+I am a Computer Science Engineering student focused on **Artificial Intelligence, Full-Stack Web Development (FastAPI + React), and Machine Learning Systems**. I enjoy engineering practical tools that bridge backend infrastructure with intelligent models.
 
-- 🎓 **Undergraduate Education:** B.E. Computer Science and Engineering, Bannari Amman Institute of Technology (Expected Graduation: 2028 | **Current CGPA:** 3.35/10 up to 4th Semester)[cite: 1]
-- 🏫 **Schooling:** 
-  - **Class XII (State Board):** St. Paul's Higher Secondary School, Salem — **92.17%** (2024)[cite: 1]
-  - **Class X (State Board):** Saraswathi Matric Higher Secondary School, Salem — **92.60%** (2022)[cite: 1]
-- 🤖 **Core Focus:** Machine Learning, Deep Learning (CNNs), and GenAI Basics (RAG, LLM, LangChain)[cite: 1]
-- 💻 **Tech Stack:** C++, Python, Java, C, FastAPI, React, SQL, MongoDB[cite: 1]
-- 🧩 **DSA Focus:** Arrays, Strings, Dynamic Programming, Trees & Graphs (Active on LeetCode & HackerRank)[cite: 1]
-- 🎯 **Certifications:** OCI Foundations 2025 Certified & OCI AI Foundations 2025 Certified[cite: 1]
+- 🤖 **Core Focus:** Machine Learning, Deep Learning (CNNs), and GenAI Basics (RAG, LLM, LangChain)
+- 💻 **Tech Stack:** C++, Python, Java, C, FastAPI, React, SQL, MongoDB
+- 🧩 **DSA Focus:** Arrays, Strings, Dynamic Programming, Trees & Graphs (Active on LeetCode & HackerRank)
+- 🎯 **Certifications:** OCI Foundations 2025 Certified & OCI AI Foundations 2025 Certified
 
 ---
 
@@ -47,7 +43,7 @@ I am a Computer Science Engineering student focused on **Artificial Intelligence
 
 | Level | Institution | Board / University | Performance | Year |
 | :--- | :--- | :--- | :--- | :--- |
-| **B.E. CSE** | Bannari Amman Institute of Technology, Sathyamangalam | Anna University (Affiliated) | **CGPA: 3.35 / 10** | 2024 – 2028 |
+| **B.E. CSE** | Bannari Amman Institute of Technology, Sathyamangalam | Anna University (Affiliated) | **CGPA: 8.4/10** | 2024 – 2028 |
 | **Class XII** | St. Paul's Higher Secondary School, Salem | Tamil Nadu State Board | **92.17%** | 2024 |
 | **Class X** | Saraswathi Matric Higher Secondary School, Salem | Tamil Nadu State Board | **92.60%** | 2022 |
 
@@ -96,9 +92,9 @@ I am a Computer Science Engineering student focused on **Artificial Intelligence
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **📈 Stock Price Alert System** | Full-stack platform monitoring live market data in real-time, executing background threshold checks, and dispatching asynchronous Mailjet notifications[cite: 1]. | FastAPI, React, MongoDB Atlas, Mailjet[cite: 1] |
-| **🌤️ Air Quality Prediction** | ML regression pipeline predicting AQI based on historical environmental data (2015-2020) using Random Forest and XGBoost compared against statistical baselines[cite: 1]. | Python, Scikit-learn, XGBoost, Pandas[cite: 1] |
-| **🏔️ Natural Scene Classification** | Computer Vision model using CNN architecture to classify natural topographies (mountains, forests, streets) with detailed evaluation visualization[cite: 1]. | Python, Deep Learning (CNN), OpenCV[cite: 1] |
+| **📈 Stock Price Alert System** | Full-stack platform monitoring live market data in real-time, executing background threshold checks, and dispatching asynchronous Mailjet notifications. | FastAPI, React, MongoDB Atlas, Mailjet |
+| **🌤️ Air Quality Prediction** | ML regression pipeline predicting AQI based on historical environmental data (2015-2020) using Random Forest and XGBoost compared against statistical baselines. | Python, Scikit-learn, XGBoost, Pandas |
+| **🏔️ Natural Scene Classification** | Computer Vision model using CNN architecture to classify natural topographies (mountains, forests, streets) with detailed evaluation visualization. | Python, Deep Learning (CNN), OpenCV |
 
 ---
 
@@ -106,14 +102,14 @@ I am a Computer Science Engineering student focused on **Artificial Intelligence
 
 <div align="center">
 
-  ![OCI Foundations](https://img.shields.io/badge/Oracle_Cloud_Infrastructure-Foundations_2025_Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white)[cite: 1]
-  ![OCI AI Foundations](https://img.shields.io/badge/Oracle_Cloud_Infrastructure-AI_Foundations_2025_Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white)[cite: 1]
-  ![Infosys Python](https://img.shields.io/badge/Infosys-Basics_of_Python-007CC3?style=for-the-badge)[cite: 1]
+  ![OCI Foundations](https://img.shields.io/badge/Oracle_Cloud_Infrastructure-Foundations_2025_Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+  ![OCI AI Foundations](https://img.shields.io/badge/Oracle_Cloud_Infrastructure-AI_Foundations_2025_Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+  ![Infosys Python](https://img.shields.io/badge/Infosys-Basics_of_Python-007CC3?style=for-the-badge)
   
   <br/>
 
-  ![HackerRank C](https://img.shields.io/badge/HackerRank-C_4_Star_Silver-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)[cite: 1]
-  ![HackerRank Python](https://img.shields.io/badge/HackerRank-Python_4_Star_Silver-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)[cite: 1]
+  ![HackerRank C](https://img.shields.io/badge/HackerRank-C_4_Star_Silver-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)
+  ![HackerRank Python](https://img.shields.io/badge/HackerRank-Python_4_Star_Silver-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)
 
 </div>
 
@@ -125,6 +121,7 @@ I am a Computer Science Engineering student focused on **Artificial Intelligence
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=800&color=00F5FF&center=true&vcenter=true&width=550&height=40&lines=%3F+DSA_Mastery_In_Progress...;%3F+Solving+5-7+LeetCode+Problems+%2F+Week;%3F+Deepening+Arrays%2C+Strings+%26+Dynamic+Programming" alt="Terminal Video Stream" />
   </a>
 </p>
+
 
 ## ⚡ Live Telemetry & Stats
 
