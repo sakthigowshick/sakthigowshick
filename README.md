@@ -32,10 +32,9 @@
 
 I am a Computer Science Engineering student focused on **Artificial Intelligence, Full-Stack Web Development (FastAPI + React), and Machine Learning Systems**. I enjoy engineering practical tools that bridge backend infrastructure with intelligent models.
 
-- 🤖 **Core Focus:** Machine Learning, Deep Learning (CNNs), and GenAI Basics (RAG, LLM, LangChain)
-- 💻 **Tech Stack:** C++, Python, Java, C, FastAPI, React, SQL, MongoDB
-- 🧩 **DSA Focus:** Arrays, Strings, Dynamic Programming, Trees & Graphs (Active on LeetCode & HackerRank)
-- 🎯 **Certifications:** OCI Foundations 2025 Certified & OCI AI Foundations 2025 Certified
+- 🤖 **Core Focus:** Machine Learning, Deep Learning (CNNs), NLP and GenAI(RAG, LLM, LangChain, AI Agents and Agentic AI)
+- 💻 **Tech Stack:** Python, Java, C++, C, FastAPI, React, SQL, MongoDB
+- 🧩 **DSA Focus:** Arrays, Strings, Dynamic Programming, Trees & Graphs
 
 ---
 
