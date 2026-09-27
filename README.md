@@ -2,9 +2,7 @@
 
   <!-- Dynamic Typing Banner (Video Glimpse Effect) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?    
-      font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vcenter=true&width=650&height=70&lines=Hi+%F0%9F%91%8B%2C
-      +I'm+Sakthi+Gowshick+S;B.E.+Computer  +Science+Student;AI%2FML+%7C+GenAI+%7C+FastAPI+%7C+React;Python+%2B+Java+Developer" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vcenter=true&width=650&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Sakthi+Gowshick+S;B.E.+Computer+Science+Student;AI%2FML+%7C+GenAI+%7C+FastAPI+%7C+React;Python+%2B+Java+Developer" alt="Typing Animation" />
   </a>
 
   <p align="center">
@@ -104,14 +102,15 @@ I am a Computer Science Engineering student focused on **Artificial Intelligence
 
 <div align="center">
 
-  ![OCI Foundations](https://img.shields.io/badge/Oracle_Cloud_Infrastructure-Foundations_2025_Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-  ![OCI AI Foundations](https://img.shields.io/badge/Oracle_Cloud_Infrastructure-AI_Foundations_2025_Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-  ![Infosys Python](https://img.shields.io/badge/Infosys-Basics_of_Python-007CC3?style=for-the-badge)
-  
+  <img src="https://img.shields.io/badge/UC_Santa_Cruz-C_for_Everyone:_Programming_Fundamentals-003C6C?style=for-the-badge&logo=coursera&logoColor=white" alt="UC Santa Cruz C for Everyone" />
+  <img src="https://img.shields.io/badge/Oracle_Cloud_Infrastructure-Foundations_2025_Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="OCI Foundations" />
+  <img src="https://img.shields.io/badge/Oracle_Cloud_Infrastructure-AI_Foundations_2025_Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="OCI AI Foundations" />
+  <img src="https://img.shields.io/badge/Infosys-Basics_of_Python-007CC3?style=for-the-badge" alt="Infosys Python" />
+
   <br/>
 
-  ![HackerRank C](https://img.shields.io/badge/HackerRank-C_4_Star_Silver-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)
-  ![HackerRank Python](https://img.shields.io/badge/HackerRank-Python_4_Star_Silver-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)
+  <img src="https://img.shields.io/badge/HackerRank-C_4_Star_Silver-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank C" />
+  <img src="https://img.shields.io/badge/HackerRank-Python_4_Star_Silver-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank Python" />
 
 </div>
 
@@ -123,7 +122,6 @@ I am a Computer Science Engineering student focused on **Artificial Intelligence
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=800&color=00F5FF&center=true&vcenter=true&width=550&height=40&lines=%3F+DSA_Mastery_In_Progress...;%3F+Solving+5-7+LeetCode+Problems+%2F+Week;%3F+Deepening+Arrays%2C+Strings+%26+Dynamic+Programming" alt="Terminal Video Stream" />
   </a>
 </p>
-
 
 ## ⚡ Live Telemetry & Stats
 
@@ -160,7 +158,7 @@ I am a Computer Science Engineering student focused on **Artificial Intelligence
 
 ## 🎯 Target Milestones (2026–2028 Roadmap)
 
-```gantt
+```text
 [■■■■■■■■■■] Secure Entry-Level Software / AI Engineer Placement Role
 [■■■■■■■□□□] Advanced RAG Systems, LLM Orchestration & LangChain Integration
 [■■■■■■■■□□] Solve 200+ Medium/Hard Problems across LeetCode & HackerRank
