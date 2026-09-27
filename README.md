@@ -2,19 +2,26 @@
 
   <!-- Dynamic Typing Banner (Video Glimpse Effect) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vcenter=true&width=600&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Sakthi+Gowshick;Aspiring+AI+Engineer;ML+%7C+DL+%7C+NLP+%7C+GenAI;Java+%2B+Python+Developer" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vcenter=true&width=650&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Sakthi+Gowshick+S;B.E.+Computer+Science+Student;AI%2FML+%7C+GenAI+%7C+FastAPI+%7C+React;C%2B%2B+%2B+Python+%2B+Java+%2B+C" alt="Typing Animation" />
   </a>
 
   <p align="center">
-    <b>Computer Science Student | Building Practical AI & Machine Learning Systems</b>
+    <b>B.E. Computer Science & Engineering @ Bannari Amman Institute of Technology</b><br/>
+    <i>Building Real-Time AI Systems, ML Baselines & Full-Stack Solutions</i>
   </p>
 
   <!-- Connect Badges -->
   <a href="https://github.com/sakthigowshick">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://leetcode.com/u/Sakthi_Gowshick_/">
+  <a href="https://linkedin.com/in/sakthi-gowshick-s-348070326/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/Sakthi_gowshick_/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://hackerrank.com/profile/sakthigowshick">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" />
   </a>
 
 </div>
@@ -23,13 +30,13 @@
 
 ## 🚀 About Me
 
-I am a Computer Science student dedicated to mastering **Artificial Intelligence, Data Structures, and Software Engineering**. My focus lies in turning theoretical concepts into deployed, real-world solutions.
+I am a Computer Science Engineering student focused on **Artificial Intelligence, Full-Stack Web Development (FastAPI + React), and Machine Learning Systems**[cite: 1]. I enjoy engineering practical tools that bridge backend infrastructure with intelligent models[cite: 1].
 
-- 🤖 **Target Role:** Aspiring **AI / Machine Learning Engineer**
-- 🧠 **Core Interests:** Machine Learning, Deep Learning, NLP & Generative AI
-- 💻 **Tech Stack:** Java, Python, C, and SQL
-- 🧩 **DSA Focus:** Arrays, Dynamic Programming, Trees, Graphs, and Searching/Sorting
-- 🎯 **Current Milestone:** Preparing for high-impact Software & AI Engineering placement roles
+- 🎓 **Education:** B.E. Computer Science and Engineering, Bannari Amman Institute of Technology (Expected 2028)[cite: 1]
+- 🤖 **Core Focus:** Machine Learning, Deep Learning (CNNs), and GenAI Basics (RAG, LLM, LangChain)[cite: 1]
+- 💻 **Tech Stack:** C++, Python, Java, C, FastAPI, React, SQL, MongoDB[cite: 1]
+- 🧩 **DSA Focus:** Arrays, Strings, Dynamic Programming, Trees & Graphs (Active on LeetCode & HackerRank)[cite: 1]
+- 🎯 **Certifications:** OCI Foundations 2025 Certified & OCI AI Foundations 2025 Certified[cite: 1]
 
 ---
 
@@ -38,30 +45,33 @@ I am a Computer Science student dedicated to mastering **Artificial Intelligence
 <table align="center" width="100%">
   <tr>
     <td width="33%" valign="top">
-      <h3 align="center">Languages & Databases</h3>
+      <h3 align="center">Languages & Core CS</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /><br/>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /><br/>
         <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" /><br/>
-        <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/OOP_&_DBMS-00599C?style=for-the-badge" />
       </p>
     </td>
     <td width="33%" valign="top">
-      <h3 align="center">AI & Data Science</h3>
+      <h3 align="center">AI, ML & Frameworks</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /><br/>
         <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Deep%20Learning%20(CNN)-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/GenAI-RAG_%7C_LLM_%7C_LangChain-8A2BE2?style=for-the-badge" /><br/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
       </p>
     </td>
     <td width="33%" valign="top">
-      <h3 align="center">Tools & Environment</h3>
+      <h3 align="center">Databases & Tools</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/Git%20%26%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/Oracle_Cloud_(OCI)-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
       </p>
     </td>
   </tr>
@@ -71,24 +81,37 @@ I am a Computer Science student dedicated to mastering **Artificial Intelligence
 
 ## ⚡ Featured Projects
 
-| Project | Description | Primary Domain |
+| Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **📈 Stock Alert System** | Automated stock analysis tool providing real-time trend alerts. | Financial AI |
-| **🌱 Plant Disease Detection** | Computer Vision system detecting crop diseases from leaf images. | Deep Learning / CV |
-| **😴 Sleep Alarm Detector** | Real-time drowsiness monitoring system with automatic alarm triggering. | Computer Vision |
-| **💬 Sentiment Analysis** | Text classification engine analyzing sentiment polarity in user input. | NLP / Deep Learning |
-| **🏠 House Price Prediction** | Predictive model using regression techniques on housing market data. | Machine Learning |
-| **🤖 HireBOT** | Intelligent conversational agent designed to streamline recruitment. | Generative AI / NLP |
+| **📈 Stock Price Alert System** | Full-stack platform monitoring live market data in real-time, executing background threshold checks, and dispatching asynchronous Mailjet notifications[cite: 1]. | FastAPI, React, MongoDB Atlas, Mailjet[cite: 1] |
+| **🌤️ Air Quality Prediction** | ML regression pipeline predicting AQI based on historical environmental data (2015-2020) using Random Forest and XGBoost compared against statistical baselines[cite: 1]. | Python, Scikit-learn, XGBoost, Pandas[cite: 1] |
+| **🏔️ Natural Scene Classification** | Computer Vision model using CNN architecture to classify natural topographies (mountains, forests, streets) with detailed evaluation visualization[cite: 1]. | Python, Deep Learning (CNN), OpenCV[cite: 1] |
 
 ---
 
- 
+## 🏅 Certifications & Badges
 
-## 🧠 Currently Learning
+<div align="center">
 
-I am currently practicing:
+  ![OCI Foundations](https://img.shields.io/badge/Oracle_Cloud_Infrastructure-Foundations_2025_Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white)[cite: 1]
+  ![OCI AI Foundations](https://img.shields.io/badge/Oracle_Cloud_Infrastructure-AI_Foundations_2025_Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white)[cite: 1]
+  ![Infosys Python](https://img.shields.io/badge/Infosys-Basics_of_Python-007CC3?style=for-the-badge)[cite: 1]
+  
+  <br/>
 
-Data Structure and Algorithms & Exploring the world of NLP
+  ![HackerRank C](https://img.shields.io/badge/HackerRank-C_4_Star_Silver-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)[cite: 1]
+  ![HackerRank Python](https://img.shields.io/badge/HackerRank-Python_4_Star_Silver-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)[cite: 1]
+
+</div>
+
+---
+
+<!-- Animated Terminal Video Header -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=800&color=00F5FF&center=true&vcenter=true&width=550&height=40&lines=%3F+DSA_Mastery_In_Progress...;%3F+Solving+5-7+LeetCode+Problems+%2F+Week;%3F+Deepening+Arrays%2C+Strings+%26+Dynamic+Programming" alt="Terminal Video Stream" />
+  </a>
+</p>
 
 ### 🧩 Core Algorithmic Mastery
 
@@ -116,12 +139,12 @@ Data Structure and Algorithms & Exploring the world of NLP
   <tr>
     <td align="center" width="50%" valign="top">
       <h3>🟠 LeetCode Live Activity</h3>
-      <a href="https://leetcode.com/u/Sakthi_Gowshick_/">
-        <img src="https://leetcard.jacoblin.cool/Sakthi_Gowshick_?theme=dark&font=baloo&ext=heatmap" width="100%" alt="LeetCode Card" />
+      <a href="https://leetcode.com/u/Sakthi_gowshick_/">
+        <img src="https://leetcard.jacoblin.cool/Sakthi_gowshick_?theme=dark&font=baloo&ext=heatmap" width="100%" alt="LeetCode Card" />
       </a>
       <p align="center">
-        <a href="https://leetcode.com/u/Sakthi_Gowshick_/">
-          <img src="https://img.shields.io/badge/View_Profile-Sakthi__Gowshick__-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+        <a href="https://leetcode.com/u/Sakthi_gowshick_/">
+          <img src="https://img.shields.io/badge/View_Profile-Sakthi__gowshick__-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
         </a>
       </p>
     </td>
@@ -143,10 +166,10 @@ Data Structure and Algorithms & Exploring the world of NLP
 
 ---
 
-## 🎯 Target Milestones (2026 Roadmap)
+## 🎯 Target Milestones (2026–2028 Roadmap)
 
 ```gantt
-[■■■■■■■■■■] Secure AI / Software Engineering Role
-[■■■■■■■□□□] Fine-Tune Custom LLMs & Multi-Modal GenAI
-[■■■■■■■■□□] Solve 300+ Targeted LeetCode Problems
-[■■■■■■□□□□] Deploy Production-Ready ML Open-Source Pipelines
+[■■■■■■■■■■] Secure Entry-Level Software / AI Engineer Placement Role
+[■■■■■■■□□□] Advanced RAG Systems, LLM Orchestration & LangChain Integration
+[■■■■■■■■□□] Solve 200+ Medium/Hard Problems across LeetCode & HackerRank
+[■■■■■■□□□□] Expand OCI Cloud Architectures & Full-Stack FastAPI Microservices
