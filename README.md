@@ -160,5 +160,5 @@ I am a Computer Science Engineering student focused on **Artificial Intelligence
 ```text
 [■■■■■■■■■■] Secure Entry-Level Software / AI Engineer Placement Role
 [■■■■■■■□□□] Advanced RAG Systems, LLM Orchestration & LangChain Integration
-[■■■■■■■■□□] Solve 200+ Medium/Hard Problems across LeetCode & HackerRank
+[■■■■■■■■□□] Solve 200+ Medium/Hard Problems across LeetCode
 [■■■■■■□□□□] Expand OCI Cloud Architectures & Full-Stack FastAPI Microservices
