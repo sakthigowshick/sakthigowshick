@@ -32,7 +32,7 @@
 
 I am a Computer Science Engineering student focused on **Artificial Intelligence, Full-Stack Web Development (FastAPI + React), and Machine Learning Systems**. I enjoy engineering practical tools that bridge backend infrastructure with intelligent models.
 
-- 🤖 **Core Focus:** Machine Learning, Deep Learning (CNNs), NLP and GenAI(RAG, LLM, LangChain, AI Agents and Agentic AI)
+- 🤖 **Core Focus:** Machine Learning, Deep Learning (CNNs), NLP and GenAI (RAG, LLM, LangChain, AI Agents and Agentic AI)
 - 💻 **Tech Stack:** Python, Java, C++, C, FastAPI, React, SQL, MongoDB
 - 🧩 **DSA Focus:** Arrays, Strings, Dynamic Programming, Trees & Graphs
 
@@ -139,7 +139,8 @@ I am a Computer Science Engineering student focused on **Artificial Intelligence
     </td>
     <td align="center" width="50%" valign="top">
       <h3>🔥 Contribution Streak</h3>
-      <img src="https://streak-stats.demolab.com?user=sakthigowshick&theme=tokyonight&hide_border=true&count_private=true" width="100%" alt="GitHub Streak" />
+      <!-- Fixed Streak Badge URL with cache_seconds=60 -->
+      <img src="https://streak-stats.demolab.com?user=sakthigowshick&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=60" width="100%" alt="GitHub Streak" />
       <br/><br/>
       <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sakthigowshick&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages" />
     </td>
