@@ -118,7 +118,7 @@ I am a Computer Science Engineering student focused on **Artificial Intelligence
 <!-- Animated Terminal Video Header -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=800&color=00F5FF&center=true&vcenter=true&width=550&height=40&lines=%3F+DSA_Mastery_In_Progress...;%3F+Solving+5-7+LeetCode+Problems+%2F+Week;%3F+Deepening+Arrays%2C+Strings+%26+Dynamic+Programming" alt="Terminal Video Stream" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=800&color=00F5FF&center=true&vcenter=true&width=550&height=40&lines=%3F+DSA_Mastery_In_Progress...;%3F+Solving+10-12+LeetCode+Problems+%2F+Week;%3F+Deepening+Arrays%2C+Strings+%26+Dynamic+Programming" alt="Terminal Video Stream" />
   </a>
 </p>
 
