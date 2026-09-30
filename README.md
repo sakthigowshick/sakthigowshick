@@ -142,7 +142,7 @@ I am a Computer Science Engineering student focused on **Artificial Intelligence
       <!-- Fixed Streak Badge URL with cache_seconds=60 -->
       <img src="https://streak-stats.demolab.com?user=sakthigowshick&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=60" width="100%" alt="GitHub Streak" />
       <br/><br/>
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sakthigowshick&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sakthigowshick&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages " />
     </td>
   </tr>
 </table>
